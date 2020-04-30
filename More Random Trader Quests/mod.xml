@@ -1,0 +1,12 @@
+<mod>
+	<info>
+		<author>KaosuRyoko</author>
+		<name>More Random Trader Quests</name>
+		<description>Traders will always have a minimum of one of the highest tier quests (instead of 3). The remaining 4 will be selected randomly.</description>
+		<mod_version>1.0</mod_version>
+		<game_version>1.0</game_version>
+		<launcher_version>0.0.0</launcher_version>
+	</info>
+	<dependencies>
+	</dependencies>
+</mod>
