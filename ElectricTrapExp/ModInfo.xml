@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<xml>
+		<ModInfo>
+			<Name value="Electric Trap Exp"/>
+			<Description value="Base electric trap exp changed to 50%, scales to 100% with perk."/>
+			<Author value="InnocuousChaos"/>
+			<Version value="1.0"/>
+			<Website value=""/>
+		</ModInfo>
+	</xml>

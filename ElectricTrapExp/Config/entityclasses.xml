@@ -1,0 +1,5 @@
+<InnocuousChaos>
+	<append xpath="/entity_classes/entity_class[@name='playerMale']/effect_group[1]">
+		<passive_effect name="ElectricalTrapXP" operation="base_set" value="0.5" />
+	</append>
+</InnocuousChaos>

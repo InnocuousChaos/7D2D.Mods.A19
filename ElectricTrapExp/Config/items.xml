@@ -1,0 +1,8 @@
+<InnocuousChaos>
+	<append xpath="/items/item[@name='smallEngine']">
+	<property name="ShowQuality" value="true"/>
+		<effect_group>
+			<passive_effect name="DegradationMax" operation="base_set" value="5000,10000" tier="1,6"/>
+		</effect_group>
+	</append>
+</InnocuousChaos>
