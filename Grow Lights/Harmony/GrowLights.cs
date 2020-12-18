@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace _7D2D_Mods.Grow_Lights.Harmony
 {
-    class GrowLightPatchScript : IPatcherMod
+    class GrowLights : IPatcherMod
     {
         public bool Link(ModuleDefinition gameModule, ModuleDefinition modModule)
         {
