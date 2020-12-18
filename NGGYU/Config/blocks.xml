@@ -1,0 +1,3 @@
+<InnocuousChaos>
+  <set xpath="/blocks/block[@name='speaker']/property[@name='PlaySound']/@value">NGGYU</set>
+</InnocuousChaos>

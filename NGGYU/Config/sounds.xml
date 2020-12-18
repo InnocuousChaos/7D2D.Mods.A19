@@ -1,0 +1,13 @@
+<InnocuousChaos>
+  <append xpath="/Sounds">
+    <SoundDataNode name="NGGYU">
+      <AudioSource name="Sounds/AudioSource_VO_Announce"/>
+      <AudioClip ClipName="#@modfolder:Resources/NGGYU.unity3d?NGGYU" Loop="true"/>
+      <LocalCrouchVolumeScale value="1.0"/>
+      <CrouchNoiseScale value="1.0"/>
+      <NoiseScale value="1"/>
+      <MaxVoices value="10"/>
+      <MaxRepeatRate value="0"/>
+    </SoundDataNode>
+  </append>
+</InnocuousChaos>
