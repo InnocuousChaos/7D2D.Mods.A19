@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Grow Lights" />
+		<Description value="Adds a new type of light that imitates the sun." />
+		<Author value="InoccuousChaos" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>

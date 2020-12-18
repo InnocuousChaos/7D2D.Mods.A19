@@ -353,3 +353,7 @@ MigrationBackup/
 /More Random Trader Quests/packages.config
 *.sln
 /packages.config
+/Properties
+/App.config
+/Program.cs
+/.editorconfig
