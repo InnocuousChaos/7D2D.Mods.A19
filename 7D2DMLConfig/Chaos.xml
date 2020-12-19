@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Servers>
-  <ServerGroup Name="InnocuousChaos" Logo="" Description="">
-    <Server Name="ModPack" Logo="">
+  <ServerGroup Name="Chaos">
+    <Server Name="ModPack">
       <Description>
         Mod Pack For My Friends
       </Description>
       <Version>Latest</Version>
-      <ReleaseNotes/>
       <DownloadMode>Clone</DownloadMode>      
       <Downloads>
         <Download>https://github.com/InnocuousChaos/7D2DMods/tree/master/ElectricTrapExp</Download>
